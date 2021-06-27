@@ -1,2 +1,3 @@
-# nodejs-rev-shell
-A simple Node.js reverse shell useful for pentest ops
+# Node.js Revese Shell
+**A simple Reverse shell writed in Node.js**
+Use Netcat to handle connection e.g. nc -lvnp 4444
